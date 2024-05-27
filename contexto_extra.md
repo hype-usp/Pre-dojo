@@ -53,19 +53,3 @@ Python tem alguns problemas fatais que vem com a sua simplicidade e facilidade c
 A lista até pode ser pequena de desvantagens, mas não deixe se enganar, em larga escala ela se tornará uma dor de cabeça sem tamanho. Lembre-se:
 
 **Em programação não existe uma solução milagrosa para seus problemas, estude os casos de uso de uma linguagem antes de usá-la em um projeto.**
-
-Tudo isso para dizer: pelo amor de deus parem de usar Python pra fazer jogos e aplicativos mobile, aprendam uma outra linguagem de programação, eu imploro. 
-
-## Preparação de um Ambiente Python
-
-**TODO**
-
-
-## Referências (em ordem de aparição)
-
-https://stackoverflow.blog/2023/06/13/developer-survey-results-are-in/
-
-https://peps.python.org/
-
-https://wiki.python.org/moin/PythonImplementations
-
